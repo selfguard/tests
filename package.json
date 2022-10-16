@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "bro-fs": "^0.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwk-to-pem": "^2.0.5",
+    "jwks-rsa": "^2.1.5",
+    "selfguard-client": "https://github.com/selfguard/selfguard-node"
+  },
+  "type": "module",
+  "name": "test",
+  "version": "1.0.0",
+  "main": "sg.js",
+  "license": "MIT"
+}

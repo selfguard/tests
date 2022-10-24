@@ -4,7 +4,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwk-to-pem": "^2.0.5",
     "jwks-rsa": "^2.1.5",
-    "selfguard-client": "https://github.com/selfguard/selfguard-node"
+    "selfguard-client": "../selfguard"
   },
   "type": "module",
   "name": "test",
